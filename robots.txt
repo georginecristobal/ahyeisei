@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saiwiepha.ben-weintraub.com/sitemap.xml
